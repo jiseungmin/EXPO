@@ -9,5 +9,5 @@
   
   
 
-### Expo App Run
+### Expo App Run!
 ```expo start```
